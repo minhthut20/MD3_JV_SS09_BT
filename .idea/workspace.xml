@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7644a46-8498-4c33-9835-76da5a2f9f5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/BT2_Triangle/TriangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BT2_Triangle/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BT3_QueueViaArray/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,6 +57,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="BT2_Triangle" />
       <recent name="BT1_NextDayCalculator" />
     </key>
   </component>
@@ -71,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678778373843</updated>
       <workItem from="1678778375614" duration="1435000" />
-      <workItem from="1679214767453" duration="1386000" />
+      <workItem from="1679214767453" duration="1679000" />
     </task>
     <servers />
   </component>
